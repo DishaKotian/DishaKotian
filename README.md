@@ -1,52 +1,72 @@
-# Hey there, I'm Disha Kotian 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a 3rd-year B.Tech student passionate about building things that matter.  I love exploring full-stack development, blockchain technology, real-time systems, and diving into system design principles.
+# 👋 Hey there, I'm Disha Kotian
 
-## What You'll Find Here
+### 3rd-Year B.Tech Student | Full-Stack Developer | Tech Enthusiast
 
-My repositories showcase projects ranging from web applications to backend systems, along with experiments in blockchain and real-time technologies.  I believe in learning by building, so you'll find a mix of coursework, personal projects, and collaborative experiments here.
+*Building things that matter, one commit at a time*
 
-## Tech Stack
-
-**Languages:**  
-Python • Java • C • JavaScript • SQL • HTML5 • CSS3
-
-**Frameworks & Tools:**  
-React. js • Node.js • Flask • Git • GitHub • VS Code
-
-**Databases:**  
-MySQL • MongoDB
-
-## Getting Started with My Projects
-
-Most of my projects include a README with setup instructions.  Here's the general flow:
-
-```bash
-# Clone the repository
-git clone https://github.com/DishaKotian/repository-name.git
-
-# Navigate to the project directory
-cd repository-name
-
-# Follow the setup instructions in the project's README
-```
-
-Each project may have specific dependencies or setup steps, so be sure to check the individual README files. 
-
-## Let's Collaborate
-
-I'm always open to collaboration, feedback, and learning opportunities!  If you have ideas for a project, find a bug, or just want to connect: 
-
-- Feel free to open an issue or pull request on any repository
-- Reach out if you'd like to work on something together
-- Suggestions and constructive feedback are always welcome
-
-## A Little Extra
-
-When I'm not coding, I'm probably reading about the latest tech trends, exploring new frameworks, or trying to optimize something that probably doesn't need optimizing (yet).
-
-Thanks for stopping by! 🚀
+</div>
 
 ---
 
-*Always learning, always building.*
+## 🚀 About Me
+
+I'm passionate about creating impactful solutions through code. My journey spans across **full-stack development**, **blockchain technology**, and **real-time systems**. I believe in learning by doing, and my repositories reflect that philosophy—a mix of personal projects, collaborative experiments, and continuous exploration.
+
+## 💻 Tech Stack
+
+```
+Languages:        Python | Java | C | JavaScript | SQL | HTML5 | CSS3
+Frontend:         React.js | HTML5 | CSS3
+Backend:          Node.js | Flask
+Databases:        MySQL | MongoDB
+Tools:            Git | GitHub | VS Code
+```
+
+## 🔥 What I'm Exploring
+
+- 🌐 Full-stack web development
+- ⛓️ Blockchain technology and decentralized systems
+- ⚡ Real-time applications and WebSockets
+- 🏗️ System design and scalable architectures
+- 🔐 Web security best practices
+
+## 📂 Getting Started with My Projects
+
+```bash
+# Clone any repository
+git clone https://github.com/DishaKotian/repository-name.git
+
+# Navigate to the project
+cd repository-name
+
+# Check the README for specific setup instructions
+```
+
+> 💡 Each project has its own README with detailed setup and usage instructions!
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate, learn, and share knowledge!
+
+- 💬 Open to project collaborations
+- 🐛 Bug reports and feature requests welcome
+- 🌟 Feedback and suggestions appreciated
+- 📫 Feel free to reach out for tech discussions
+
+## 🌟 Beyond the Code
+
+When I'm not coding, I'm diving into tech blogs, exploring new frameworks, experimenting with emerging technologies, or optimizing systems for fun. I'm particularly fascinated by how technology can solve real-world problems and create meaningful impact.
+
+Currently exploring: **Distributed Systems** | **Microservices Architecture** | **Web3 Technologies**
+
+---
+
+<div align="center">
+
+### ⚡ *Always learning, always building, always curious* ⚡
+
+**Thanks for visiting! Feel free to explore my repositories** 🚀
+
+</div>

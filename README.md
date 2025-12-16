@@ -1,21 +1,21 @@
 # Hey there, I'm Disha Kotian 👋
 
-Welcome to my GitHub profile! I'm a 3rd-year B.Tech student passionate about building things that matter. I love exploring full-stack development, blockchain technology, real-time systems, and diving into system design principles.
+Welcome to my GitHub profile! I'm a 3rd-year B.Tech student passionate about building things that matter.  I love exploring full-stack development, blockchain technology, real-time systems, and diving into system design principles.
 
 ## What You'll Find Here
 
-My repositories showcase projects ranging from web applications to backend systems, along with experiments in blockchain and real-time technologies. I believe in learning by building, so you'll find a mix of coursework, personal projects, and collaborative experiments here.
+My repositories showcase projects ranging from web applications to backend systems, along with experiments in blockchain and real-time technologies.  I believe in learning by building, so you'll find a mix of coursework, personal projects, and collaborative experiments here.
 
 ## Tech Stack
 
 **Languages:**  
-Java • JavaScript • Python • SQL
+Python • Java • C • JavaScript • SQL • HTML5 • CSS3
 
 **Frameworks & Tools:**  
-React • Node. js • Flask • Git • GitHub • VS Code
+React. js • Node.js • Flask • Git • GitHub • VS Code
 
 **Databases:**  
-MySQL
+MySQL • MongoDB
 
 ## Getting Started with My Projects
 
